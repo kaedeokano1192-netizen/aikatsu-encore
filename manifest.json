@@ -1,0 +1,17 @@
+{
+  "name": "アイカツ!アンコール　カードリスト",
+  "short_name": "アイカツ!アンコール",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7fc",
+  "theme_color": "#8e5bb7",
+  "description": "アイカツ!アンコールのカードを管理するPWA",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
